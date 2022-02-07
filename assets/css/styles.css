@@ -184,6 +184,9 @@
 
 
 @media (max-width: 800px) {
+    h2 {
+        width: 100%;
+    }
     .intro-content, .grid {
         grid-template-columns: 1fr;
     }
