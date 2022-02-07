@@ -16,7 +16,7 @@
 .intro-img img,
 .intro-img svg {
     max-width: 100%;
-    height: auto;
+    height: 60rem;
 }
 
 .introduction-content {
