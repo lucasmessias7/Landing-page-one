@@ -1,0 +1,38 @@
+.main-bg {
+    background-image: url('../main-bg.svg/spectrum-gradient.svg');
+    background-size: cover;
+    background-position: center center;
+    color: var(--primary);
+}
+
+
+.white-bg {
+
+    background: var(--primary);
+    color:var(--secundary-color);
+}
+
+.main-content {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 5rem var(--gap) ;
+}
+
+.main-content-landing {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.section {
+    min-height: 100vh;
+ 
+}
+.menu-spacing {
+    height:65px;
+}
+
+body .full-width {
+    width: 100%;
+    flex: 1 1 100%;
+}
